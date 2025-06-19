@@ -1,0 +1,908 @@
+[19Jun2025 05:21:50.181] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.2, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[19Jun2025 05:21:50.184] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[19Jun2025 05:21:53.751] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Jun2025 05:21:53.956] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/horrorcraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[19Jun2025 05:21:54.144] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/horrorcraft/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[19Jun2025 05:21:54.439] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/horrorcraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.2/fmlcore-1.20.1-47.4.2.jar is missing mods.toml file
+[19Jun2025 05:21:54.441] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/horrorcraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.2/javafmllanguage-1.20.1-47.4.2.jar is missing mods.toml file
+[19Jun2025 05:21:54.443] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/horrorcraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.2/lowcodelanguage-1.20.1-47.4.2.jar is missing mods.toml file
+[19Jun2025 05:21:54.445] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/horrorcraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.2/mclanguage-1.20.1-47.4.2.jar is missing mods.toml file
+[19Jun2025 05:21:55.311] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 19 dependencies adding them to mods collection
+[19Jun2025 05:21:57.717] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Jun2025 05:21:57.760] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[19Jun2025 05:21:57.829] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[19Jun2025 05:21:57.832] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Jun2025 05:21:58.215] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.1+mc1.20.1: 95 options available, 0 override(s) found
+[19Jun2025 05:21:58.216] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[19Jun2025 05:21:58.237] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[19Jun2025 05:21:58.410] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 68 options available, 0 override(s) found
+[19Jun2025 05:21:59.693] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue ItemStackCreationStatistics from mod jei as it's dev only!
+[19Jun2025 05:21:59.695] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue002 will NOT be loaded as mod travelersbackpack is not present
+[19Jun2025 05:21:59.696] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
+[19Jun2025 05:21:59.696] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.toolbelt.UntrackedIssue001 will NOT be loaded as mod toolbelt is not present
+[19Jun2025 05:21:59.696] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.tfcthermaldeposits.UntrackedIssue001 will NOT be loaded as mod tfcthermaldeposits is not present
+[19Jun2025 05:21:59.696] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.smallships.UntrackedIssue001 will NOT be loaded as mod smallships is not present
+[19Jun2025 05:21:59.696] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.sereneseasons.UntrackedIssue001 will NOT be loaded as mod sereneseasons is not present
+[19Jun2025 05:21:59.697] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.railcraft.UntrackedIssue001 will NOT be loaded as mod railcraft is not present
+[19Jun2025 05:21:59.697] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
+[19Jun2025 05:21:59.699] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.phosphophyllite.UntrackedIssue001 will NOT be loaded as mod phosphophyllite is not present
+[19Jun2025 05:21:59.700] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.occultism.UntrackedIssue001 will NOT be loaded as mod occultism is not present
+[19Jun2025 05:21:59.700] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.moonlight.UntrackedIssue001 will NOT be loaded as mod moonlight is not present
+[19Jun2025 05:21:59.702] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue002 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[19Jun2025 05:21:59.702] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.EntityTickListMixin]
+[19Jun2025 05:21:59.703] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[19Jun2025 05:21:59.704] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.irons_spellbooks.UntrackedIssue001 will NOT be loaded as mod irons_spellbooks is not present
+[19Jun2025 05:21:59.707] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue003 will be loaded as it matches versions: 47.4.2 in [47.2,)
+[19Jun2025 05:21:59.707] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue002 will be loaded as it matches versions: 47.4.2 in [47.2,)
+[19Jun2025 05:21:59.709] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [accessor.FakePlayerNetHandlerAccessor, accessor.ConnectionAccessor]
+[19Jun2025 05:21:59.709] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue001 will be loaded as it matches versions: 47.4.2 in [47.2,)
+[19Jun2025 05:21:59.710] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.ServerPlayerMixin, main.PlayerListMixin]
+[19Jun2025 05:21:59.710] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forbidden_arcanus.UntrackedIssue001 will NOT be loaded as mod forbidden_arcanus is not present
+[19Jun2025 05:21:59.712] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.domesticationinnovation.UntrackedIssue001 will NOT be loaded as mod domesticationinnovation is not present
+[19Jun2025 05:21:59.712] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.curios.UntrackedIssue001 will NOT be loaded as mod curios is not present
+[19Jun2025 05:21:59.714] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.createaddition.UntrackedIssue001 will NOT be loaded as mod createaddition is not present
+[19Jun2025 05:21:59.742] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.create.UntrackedIssue001 will NOT be loaded as mod create is not present
+[19Jun2025 05:21:59.742] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.citadel.UntrackedIssue001 will NOT be loaded as mod citadel is not present
+[19Jun2025 05:21:59.743] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.betterf3.UntrackedIssue001 will NOT be loaded as mod betterf3 is not present
+[19Jun2025 05:21:59.743] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
+[19Jun2025 05:21:59.743] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue002 will NOT be loaded as mod ars_nouveau is not present
+[19Jun2025 05:21:59.743] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue001 will NOT be loaded as mod ars_nouveau is not present
+[19Jun2025 05:21:59.743] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.architectury.UntrackedIssue001 will be loaded as it matches versions: 9.2.14 in [9.0.8,)
+[19Jun2025 05:21:59.743] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.alexsmobs.Issue2165 will NOT be loaded as mod alexsmobs is not present
+[19Jun2025 05:21:59.744] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.aether.UntrackedIssue001 will NOT be loaded as mod aether is not present
+[19Jun2025 05:21:59.744] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
+[19Jun2025 05:21:59.744] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod twilightforest as it is client side only!
+[19Jun2025 05:21:59.744] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod travelersbackpack as it is client side only!
+[19Jun2025 05:21:59.744] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod tombstone as it is client side only!
+[19Jun2025 05:21:59.744] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod sereneseasons as it is client side only!
+[19Jun2025 05:21:59.745] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod pneumaticcraft as it is client side only!
+[19Jun2025 05:21:59.745] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod nuclearcraft as it is client side only!
+[19Jun2025 05:21:59.745] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mowziesmobs as it is client side only!
+[19Jun2025 05:21:59.746] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mowziesmobs as it is client side only!
+[19Jun2025 05:21:59.746] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mousetweaks as it is client side only!
+[19Jun2025 05:21:59.746] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mna as it is client side only!
+[19Jun2025 05:21:59.749] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as it is client side only!
+[19Jun2025 05:21:59.749] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as mod modernfix is present!
+[19Jun2025 05:21:59.749] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecolonies as it is client side only!
+[19Jun2025 05:21:59.751] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecolonies as it is client side only!
+[19Jun2025 05:21:59.751] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ldlib as it is client side only!
+[19Jun2025 05:21:59.752] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod journeymap as it is client side only!
+[19Jun2025 05:21:59.752] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jeresources as it is client side only!
+[19Jun2025 05:21:59.752] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
+[19Jun2025 05:21:59.753] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
+[19Jun2025 05:21:59.754] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod irons_spellbooks as it is client side only!
+[19Jun2025 05:21:59.754] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod irons_spellbooks as it is client side only!
+[19Jun2025 05:21:59.754] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[19Jun2025 05:21:59.756] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[19Jun2025 05:21:59.756] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod geckolib as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ftblibrary as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod flywheel as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod findme as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod entity_texture_features as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod entity_model_features as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi_loot as it is client side only!
+[19Jun2025 05:21:59.757] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi as it is client side only!
+[19Jun2025 05:21:59.761] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod easy_villagers as it is client side only!
+[19Jun2025 05:21:59.761] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod difficultylock as it is client side only!
+[19Jun2025 05:21:59.762] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod cyclopscore as it is client side only!
+[19Jun2025 05:21:59.762] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod corpse as it is client side only!
+[19Jun2025 05:21:59.763] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod citadel as it is client side only!
+[19Jun2025 05:21:59.763] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod blue_skies as it is client side only!
+[19Jun2025 05:21:59.763] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod beansbackpacks as it is client side only!
+[19Jun2025 05:21:59.763] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod badpackets as it is client side only!
+[19Jun2025 05:21:59.764] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
+[19Jun2025 05:21:59.764] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
+[19Jun2025 05:21:59.764] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.fix.common.mods.modernfix.CancelRLMixin will be loaded as it matches versions: 5.23.1+mc1.20.1 in [5.0.0,)
+[19Jun2025 05:21:59.765] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to cancel list: [org.embeddedt.modernfix.common.mixin.perf.deduplicate_location.MixinResourceLocation]
+[19Jun2025 05:21:59.769] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature ResourceLocation Deduplication from mod minecraft as it's feature flag is not activated!
+[19Jun2025 05:21:59.769] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Ingredient Deduplication from mod minecraft as it's feature flag is not activated!
+[19Jun2025 05:21:59.770] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Prevent Search Ignored Items from mod jei as it's feature flag is not activated!
+[19Jun2025 05:22:00.571] [main/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/impl/datagen/FabricDataGenHelper (java.lang.ClassNotFoundException: net.fabricmc.fabric.impl.datagen.FabricDataGenHelper)
+[19Jun2025 05:22:00.597] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[19Jun2025 05:22:00.598] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Minecraft (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER)
+[19Jun2025 05:22:00.599] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Minecraft was not found mixins.thebrokenscript.json:SingleplayerDynamicPOSMixin
+[19Jun2025 05:22:00.601] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/PauseScreen for invalid dist DEDICATED_SERVER
+[19Jun2025 05:22:00.601] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/PauseScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/PauseScreen for invalid dist DEDICATED_SERVER)
+[19Jun2025 05:22:00.601] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.PauseScreen was not found mixins.thebrokenscript.json:NoPauseMixin
+[19Jun2025 05:22:00.678] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19Jun2025 05:22:01.512] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (17.06 s after launch)
+[19Jun2025 05:22:01.792] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[19Jun2025 05:22:01.793] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[19Jun2025 05:22:03.135] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1618 milliseconds
+[19Jun2025 05:22:06.790] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Jun2025 05:22:06.806] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.2, for MC 1.20.1 with MCP 20230612.114412
+[19Jun2025 05:22:06.807] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.2 Initialized
+[19Jun2025 05:22:06.941] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/horrorcraft/servidor_minecraft/config/yacl.json5'
+[19Jun2025 05:22:06.967] [modloading-worker-0/INFO] [chloride/Main]: Chloride is not intended to be on servers, loaded in inner mode
+[19Jun2025 05:22:07.320] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[19Jun2025 05:22:09.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[19Jun2025 05:22:09.789] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.2.jar%23144!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.2.jar%23144!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[19Jun2025 05:22:09.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[19Jun2025 05:22:10.042] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Jun2025 05:22:10.198] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[19Jun2025 05:22:10.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
+[19Jun2025 05:22:10.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Jun2025 05:22:10.460] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/horrorcraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[19Jun2025 05:22:10.461] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/horrorcraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[19Jun2025 05:22:10.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.4.2 Target: null
+[19Jun2025 05:22:12.752] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thebrokenscript:blocks/false_comand_block
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'thebrokenscript:false_comand_block'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Jun2025 05:22:12.806] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thebrokenscript:blocks/redrock
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'thebrokenscript:redrock'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Jun2025 05:22:12.814] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thebrokenscript:blocks/noise
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'thebrokenscript:noise'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Jun2025 05:22:12.833] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thebrokenscript:blocks/flesh
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'thebrokenscript:flesh'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Jun2025 05:22:12.865] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:thebrokenscript:blocks/unstable_noise
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'thebrokenscript:unstable_noise'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.2-universal.jar%23148!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Jun2025 05:22:12.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[19Jun2025 05:22:13.137] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1311 advancements
+[19Jun2025 05:22:13.173] [main/WARN] [ModernFix/]: Initial datapack load took 2.676 s
+[19Jun2025 05:22:13.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[19Jun2025 05:22:13.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Jun2025 05:22:13.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Jun2025 05:22:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Jun2025 05:22:13.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Jun2025 05:22:13.534] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Jun2025 05:22:13.730] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Jun2025 05:22:13.730] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Jun2025 05:22:13.731] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Jun2025 05:22:13.731] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Jun2025 05:22:13.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Jun2025 05:22:14.236] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.237] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.238] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.238] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.238] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.239] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.239] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.239] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.240] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.240] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.240] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.241] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.241] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:343)
+[19Jun2025 05:22:14.242] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.242] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.242] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.243] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.243] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.381] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.383] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.383] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.384] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.385] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.385] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.386] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.388] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.388] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.389] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.390] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.390] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.391] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.391] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.392] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.393] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.393] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.394] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.439] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.440] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.440] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.441] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.441] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.441] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.442] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.442] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.443] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.444] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.444] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.445] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.445] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.447] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.447] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.448] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.448] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.449] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.482] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.482] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.482] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.483] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.483] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.483] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.483] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.484] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.484] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.484] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.488] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.488] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.488] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.488] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.489] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.489] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.489] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.489] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.506] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.507] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.507] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.508] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.508] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.508] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.509] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.509] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.509] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.510] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.510] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.510] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.511] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.511] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.511] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.511] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.512] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.512] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.551] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.551] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.552] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.552] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.553] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.553] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.553] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.554] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.555] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.555] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.555] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.555] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.555] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.556] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.556] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.556] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.556] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.557] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.587] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.588] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.588] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.589] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.589] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.589] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.589] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.589] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.590] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.590] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.590] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.590] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.591] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.591] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.591] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.591] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.592] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.592] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.620] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.620] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.621] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.621] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.621] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.621] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.621] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.622] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.622] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.622] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.622] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.623] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.623] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.623] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.623] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.623] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.624] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.624] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.635] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.635] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.635] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.636] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.636] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.636] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.636] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.636] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.636] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.637] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.637] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.637] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.637] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.638] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.638] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.639] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.639] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.639] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.672] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.673] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.675] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.675] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.675] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.675] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.676] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.676] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.676] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.676] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.676] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.676] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.676] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.677] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.677] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.677] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.678] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.679] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.721] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.721] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.721] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.721] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.722] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.722] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.722] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.722] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.722] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.722] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.726] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.726] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.726] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.727] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.727] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.728] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.728] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.730] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.744] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.745] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.746] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.746] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.746] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.746] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.747] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.747] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.747] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.747] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.747] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.748] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.748] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.748] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.748] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.748] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.749] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.749] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.774] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.774] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.775] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.775] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.775] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.776] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.776] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.776] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.777] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.777] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.777] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.778] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.778] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.778] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.778] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.779] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.779] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.781] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.804] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: java.io.FileNotFoundException: /home/codespace\Desktop\serverpropertites.txt (Permission denied)
+[19Jun2025 05:22:14.805] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[19Jun2025 05:22:14.805] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+[19Jun2025 05:22:14.807] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+[19Jun2025 05:22:14.807] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+[19Jun2025 05:22:14.807] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+[19Jun2025 05:22:14.807] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.execute(YouNeedToRealiseProcedure.java:31)
+[19Jun2025 05:22:14.807] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure.onWorldLoad(YouNeedToRealiseProcedure.java:16)
+[19Jun2025 05:22:14.808] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/thebrokenscript@1.9.3/net.mcreator.interpritation.procedures.__YouNeedToRealiseProcedure_onWorldLoad_Load.invoke(.dynamic)
+[19Jun2025 05:22:14.808] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[19Jun2025 05:22:14.808] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[19Jun2025 05:22:14.809] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[19Jun2025 05:22:14.810] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:380)
+[19Jun2025 05:22:14.810] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308)
+[19Jun2025 05:22:14.811] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164)
+[19Jun2025 05:22:14.812] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634)
+[19Jun2025 05:22:14.812] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[19Jun2025 05:22:14.813] [Server thread/INFO] [STDERR/]: [net.mcreator.interpritation.procedures.YouNeedToRealiseProcedure:execute:36]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[19Jun2025 05:22:14.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Jun2025 05:22:16.485] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 05:22:16.537] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 05:22:16.537] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 05:22:16.538] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 05:22:16.965] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 05:22:17.320] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 05:22:17.821] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Jun2025 05:22:18.279] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3459 ms
+[19Jun2025 05:22:18.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.533s)! For help, type "help"
+[19Jun2025 05:22:18.321] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Jun2025 05:22:18.323] [Server thread/WARN] [ModernFix/]: Dedicated server took 33.871 seconds to load
+[19Jun2025 05:22:33.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marz[/127.40.69.73:33901] logged in with entity id 147 at (253.1979296825425, 65.0, -86.43650967882216)
+[19Jun2025 05:22:33.970] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player marz
+[19Jun2025 05:22:33.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marz joined the game
+[19Jun2025 05:22:45.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IromiCanela[/127.24.142.75:36759] logged in with entity id 341 at (255.84068374742264, 66.0, -97.89662325878007)
+[19Jun2025 05:22:45.168] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player IromiCanela
+[19Jun2025 05:22:45.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IromiCanela joined the game
+[19Jun2025 05:22:50.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:50.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:50.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:51.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:51.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:22:51.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:51.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:51.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:51.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:22:54.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:22:54.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:54.462] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:22:54.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:23:04.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:23:19.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:23:20.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:chunk_remover but it was marked as removed already
+[19Jun2025 05:23:31.983] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:obstalk but it was marked as removed already
+[19Jun2025 05:23:45.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:23:45.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:23:45.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:23:48.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:23:48.130] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:23:48.179] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:23:59.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You didn't expect this, did you?
+[19Jun2025 05:24:01.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:24:01.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:04.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:04.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:04.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:04.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:24:04.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:04.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:05.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:24:05.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:24:05.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:05.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:24:05.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:24:12.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:faraway but it was marked as removed already
+[19Jun2025 05:24:18.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:null_tp_beacon but it was marked as removed already
+[19Jun2025 05:24:24.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_stare but it was marked as removed already
+[19Jun2025 05:24:31.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:the but it was marked as removed already
+[19Jun2025 05:24:38.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_stare but it was marked as removed already
+[19Jun2025 05:24:39.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:24:39.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:24:39.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:25:13.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:25:51.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:25:51.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:25:51.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:12.130] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:12.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:25.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:faraway but it was marked as removed already
+[19Jun2025 05:26:25.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:25.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:26.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:26.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:26.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:26.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:29.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:29.883] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:29.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:29.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:29.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:29.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:30.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:30.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:30.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:30.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:30.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:30.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:30.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:30.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:30.894] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[19Jun2025 05:26:31.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:31.509] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:31.533] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:31.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:31.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:31.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['01001000 01100101 00100000 01110111 01101001 01101100 01101100 00100000 01100110 01101001 01101110 01100100 00100000 01111001 01101111 01110101'/648, l='ServerLevel[world]', x=316.00, y=52.00, z=-68.45] died: 01001000 01100101 00100000 01110111 01101001 01101100 01101100 00100000 01100110 01101001 01101110 01100100 00100000 01111001 01101111 01110101 was slain by marz
+[19Jun2025 05:26:34.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:null_tp_beacon but it was marked as removed already
+[19Jun2025 05:26:37.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:26:50.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:herobrine but it was marked as removed already
+[19Jun2025 05:26:59.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:26:59.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:00.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:00.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:15.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:15.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:17.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:17.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: executing
+[19Jun2025 05:27:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: locate fail.moon
+[19Jun2025 05:27:19.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: failed to find fail.moon
+[19Jun2025 05:27:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: failed to set player.data to Nothing
+[19Jun2025 05:27:20.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: locate entity.god
+[19Jun2025 05:27:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: found more then one instance of entity.god
+[19Jun2025 05:27:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: failed to call player.kill()
+[19Jun2025 05:27:20.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help @a I'm_scared
+[19Jun2025 05:27:20.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set text to "Your end is near"
+[19Jun2025 05:27:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: locate entity.VOID
+[19Jun2025 05:27:21.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: found entity.VOID
+[19Jun2025 05:27:21.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: loading entity.VOID
+[19Jun2025 05:27:22.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: complete entity.VOID
+[19Jun2025 05:27:22.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ()()()()()()()()()()()()()()()()()()()()
+[19Jun2025 05:27:22.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ENDENDENDENDENDENDENDEND()
+[19Jun2025 05:27:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HERE_I_AM()
+[19Jun2025 05:27:22.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INSIDE_THE_MOON()
+[19Jun2025 05:27:22.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: execution complete
+[19Jun2025 05:27:25.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:25.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:25.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:25.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:25.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_> Good luck
+[19Jun2025 05:27:30.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:30.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:30.683] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:30.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:30.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:random_structure but it was marked as removed already
+[19Jun2025 05:27:37.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:37.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:37.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:37.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:27:37.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:27:37.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:07.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:28:07.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:28:18.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:18.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:18.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:28:18.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:20.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:28:20.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:20.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:28:20.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:39.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:39.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:28:39.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:40.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:40.034] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:40.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:28:40.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:11.430] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:11.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:11.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:29:11.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:21.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:siluet_stare but it was marked as removed already
+[19Jun2025 05:29:29.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:33.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:faraway but it was marked as removed already
+[19Jun2025 05:29:46.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:29:46.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:46.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:29:46.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:29:46.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:46.729] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:46.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:46.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:46.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:29:46.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:29:52.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_walk but it was marked as removed already
+[19Jun2025 05:29:53.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:29:55.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:05.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:05.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:05.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:05.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:19.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:19.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:19.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:19.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:19.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:19.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:19.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:19.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:19.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:19.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:19.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:20.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_stare but it was marked as removed already
+[19Jun2025 05:30:31.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:31.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:31.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:31.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:31.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:31.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:31.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:31.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:31.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:37.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:the but it was marked as removed already
+[19Jun2025 05:30:42.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:chunk_remover but it was marked as removed already
+[19Jun2025 05:30:47.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:47.534] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:47.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:48.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:48.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:48.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:48.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:48.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:48.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:48.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:48.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:51.685] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:30:51.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:54.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:54.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:30:57.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity no_moon:event_spawner but it was marked as removed already
+[19Jun2025 05:31:16.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:the but it was marked as removed already
+[19Jun2025 05:31:17.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:17.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:31.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:34.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:37.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:37.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:37.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:37.729] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:31:37.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:31:37.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:37.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:37.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:31:37.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:31:37.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[19Jun2025 05:31:38.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[19Jun2025 05:31:38.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
