@@ -1,0 +1,8 @@
+
+[Spawnrates]
+	"masked stalking spawnrate modifier" = 8000.0
+	"masked screeching spawnrate modifier" = 10000.0
+
+["Desktop Features"]
+	"desktop features" = true
+
