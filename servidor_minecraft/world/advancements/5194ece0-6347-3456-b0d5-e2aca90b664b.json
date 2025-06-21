@@ -809,7 +809,8 @@
     "criteria": {
       "cooked_porkchop": "2025-06-21 04:16:45 +0000",
       "sweet_berries": "2025-06-21 04:45:12 +0000",
-      "cookie": "2025-06-21 04:18:27 +0000"
+      "cookie": "2025-06-21 04:18:27 +0000",
+      "cooked_rabbit": "2025-06-21 05:06:50 +0000"
     },
     "done": false
   },
@@ -885,6 +886,30 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-21 04:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-21 04:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-21 04:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-21 04:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-21 04:52:41 +0000"
     },
     "done": true
   },
