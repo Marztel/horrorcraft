@@ -3594,3 +3594,575 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [21Jun2025 05:25:04.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
 [21Jun2025 05:25:04.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
 [21Jun2025 05:25:04.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:14.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:14.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:14.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:14.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:15.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:15.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:16.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:16.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:16.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:16.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:16.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:25.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:25:25.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:25:38.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:38.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:38.220] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:42.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:42.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:42.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:42.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:51.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:51.113] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:57.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:57.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:25:57.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:25:57.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:08.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:08.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:09.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:09.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:09.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:09.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:09.163] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:09.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:09.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:22.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:28.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:30.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:30.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:30.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:37.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:26:37.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:37.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:48.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:26:55.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:27:14.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:obstalk but it was marked as removed already
+[21Jun2025 05:27:18.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:18.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:28.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:28.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:28.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:28.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:28.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:27:28.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:27:28.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:27:28.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:28.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:27:42.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:27:43.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:03.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:03.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:03.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:03.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:05.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:11.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_walk but it was marked as removed already
+[21Jun2025 05:28:15.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:15.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:16.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:18.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:chunk_remover but it was marked as removed already
+[21Jun2025 05:28:19.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:19.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:19.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:19.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:20.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:20.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:20.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:20.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:28:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:28:20.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[21Jun2025 05:29:09.806] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[21Jun2025 05:29:46.512] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[21Jun2025 05:28:36.719] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[21Jun2025 05:29:36.763] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[21Jun2025 05:29:59.825] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21Jun2025 05:30:00.091] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[21Jun2025 05:30:00.091] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[21Jun2025 05:30:00.091] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[21Jun2025 05:30:00.091] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[21Jun2025 05:30:00.091] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[21Jun2025 05:30:00.091] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[21Jun2025 05:30:00.091] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[21Jun2025 05:30:00.092] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[21Jun2025 05:30:00.093] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[21Jun2025 05:30:00.093] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[21Jun2025 05:30:00.093] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[21Jun2025 05:30:00.093] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[21Jun2025 05:30:00.093] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[21Jun2025 05:30:00.093] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[21Jun2025 05:30:00.107] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[21Jun2025 05:30:00.108] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@b46e103
+[21Jun2025 05:30:00.108] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[21Jun2025 05:30:00.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marz lost connection: Disconnected
+[21Jun2025 05:30:00.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marz left the game
+[21Jun2025 05:30:00.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IromiCanela lost connection: Disconnected
+[21Jun2025 05:30:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IromiCanela left the game
+[21Jun2025 05:30:00.127] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[21Jun2025 05:30:00.128] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[21Jun2025 05:30:00.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e8f75c5[id=<null>,name=marz,properties={},legacy=false] (/127.40.69.73:47465) lost connection: Disconnected
+[21Jun2025 05:30:00.148] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[21Jun2025 05:30:00.165] [Server Watchdog/DEBUG] [mixin/]: Mixing core.CrashReportAnalyserMixin from modernfix-forge.mixins.json into net.minecraftforge.logging.CrashReportAnalyser
+[21Jun2025 05:30:00.165] [Server Watchdog/DEBUG] [mixin/]: Renaming synthetic method lambda$removeOurselvesFromSuspectedMods$0(Lnet/minecraftforge/forgespi/language/IModInfo;)Z to md72d74e$lambda$removeOurselvesFromSuspectedMods$0$0 in modernfix-forge.mixins.json:core.CrashReportAnalyserMixin
+[21Jun2025 05:30:00.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 83414ms or 1668 ticks behind
+[21Jun2025 05:30:00.204] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4a324f3c-f769-4b22-aa5d-cff042c4cbe8
+[21Jun2025 05:30:00.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[21Jun2025 05:30:00.215] [Server Watchdog/INFO] [STDOUT/]: [net.minecraft.server.Bootstrap:m_135875_:151]: Crash report:
+---- Minecraft Crash Report ----
+// Don't be sad. I'll do better next time, I promise!
+
+Time: 2025-06-21 05:30:00
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
+	at net.minecraft.server.level.ChunkMap.m_140421_(ChunkMap.java:1207) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:378) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ServerChunkCache_CurrentLoadingMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ServerChunkCache_CurrentLoadingMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.faster_structure_location.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:mixins.thebrokenscript.json:ServerLevelMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer$$Lambda$8316/0x0000701a59181620.run(Unknown Source) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraft.server.level.ChunkMap.m_140421_(ChunkMap.java:1207) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:378) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ServerChunkCache_CurrentLoadingMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ServerChunkCache_CurrentLoadingMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.faster_structure_location.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin,pl:mixin:APP:modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin,pl:mixin:APP:mixins.thebrokenscript.json:ServerLevelMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@17.0.15/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@17.0.15/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+	at java.base@17.0.15/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@a80c54
+	at java.base@17.0.15/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@a80c54
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@17.0.15/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=11 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@e6fe231
+	at java.base@17.0.15/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@e6fe231
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.15/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+	at java.base@17.0.15/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+
+
+"Notification Thread" daemon prio=9 Id=12 RUNNABLE
+
+
+"Thread-0" daemon prio=5 Id=20 TIMED_WAITING
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:376)
+	at TRANSFORMER/modernfix@5.23.1+mc1.20.1/org.embeddedt.modernfix.forge.config.NightConfigWatchThrottler$1$1.iterator(NightConfigWatchThrottler.java:47)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:162)
+
+
+"JNA Cleaner" daemon prio=5 Id=21 WAITING on java.lang.ref.ReferenceQueue$Lock@a506724
+	at java.base@17.0.15/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@a506724
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at MC-BOOTSTRAP/com.sun.jna@5.12.1/com.sun.jna.internal.Cleaner$1.run(Cleaner.java:58)
+
+
+"Timer hack thread" daemon prio=5 Id=22 TIMED_WAITING
+	at java.base@17.0.15/java.lang.Thread.sleep(Native Method)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util$9.run(Util.java:672)
+
+
+"FileSystemWatchService" daemon prio=5 Id=27 RUNNABLE (in native)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=28 RUNNABLE (in native)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Yggdrasil Key Fetcher" daemon prio=5 Id=33 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4f52e80a
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4f52e80a
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.15/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1679)
+	at java.base@17.0.15/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@17.0.15/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@17.0.15/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	at java.base@17.0.15/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.15/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	...
+
+
+"Worker-Main-2" daemon prio=4 Id=37 TIMED_WAITING on java.util.concurrent.ForkJoinPool@f588718
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@f588718
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-3" daemon prio=4 Id=38 WAITING on java.util.concurrent.ForkJoinPool@f588718
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@f588718
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Server thread" prio=5 Id=39 RUNNABLE
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ChunkMap.m_140421_(ChunkMap.java:1207)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:378)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	...
+
+
+"Server console handler" daemon prio=5 Id=41 RUNNABLE
+	at java.base@17.0.15/java.io.FileInputStream.read0(Native Method)
+	at java.base@17.0.15/java.io.FileInputStream.read(FileInputStream.java:228)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+	at MC-BOOTSTRAP/jline.reader@3.12.1/org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
+	at MC-BOOTSTRAP/jline.reader@3.12.1/org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+	...
+
+
+"DestroyJavaVM" prio=5 Id=42 RUNNABLE
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=43 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=44 RUNNABLE (in native)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Server Watchdog" daemon prio=5 Id=52 RUNNABLE
+	at java.management@17.0.15/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@17.0.15/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
+	at java.management@17.0.15/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:41)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"LanServerPinger #1" daemon prio=5 Id=53 TIMED_WAITING
+	at java.base@17.0.15/java.lang.Thread.sleep(Native Method)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.server.LanServerPinger.run(LanServerPinger.java:48)
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=54 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Ingredient reference clearing thread" daemon prio=7 Id=55 WAITING on java.lang.ref.ReferenceQueue$Lock@7e5782a8
+	at java.base@17.0.15/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@7e5782a8
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at TRANSFORMER/modernfix@5.23.1+mc1.20.1/org.embeddedt.modernfix.forge.recipe.IngredientItemStacksSoftReference.clearReferences(IngredientItemStacksSoftReference.java:31)
+	at TRANSFORMER/modernfix@5.23.1+mc1.20.1/org.embeddedt.modernfix.forge.recipe.IngredientItemStacksSoftReference$$Lambda$9526/0x0000701a59385178.run(Unknown Source)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=56 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=57 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #4" daemon prio=5 Id=58 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #5" daemon prio=5 Id=60 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:182)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:302)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:366)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #6" daemon prio=5 Id=61 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #7" daemon prio=5 Id=62 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23151!/:?] {re:classloading}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 272,272,155,1179,1179,0,0 [minecraft:marker:54,minecraft:rabbit:38,minecraft:item:34,minecraft:creeper:21,minecraft:skeleton:19], block_entities: 229 [minecraft:mob_spawner:212,minecraft:furnace:13,minecraft:campfire:2,minecraft:brewing_stand:2], block_ticks: 9009, fluid_ticks: 144, chunk_source: Chunks[S] W: 4659 E: 271,271,155,1179,1179,0,0,
+ResourceKey[minecraft:dimension / no_moon:alone_forever]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / thebrokenscript:null_torture]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / mojangsecurityentity:banspace]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / no_moon:bedrock]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / thebrokenscript:clan_void]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / mojangsecurityentity:lobbytestdimensionalpha_1192]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / no_moon:core_77]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / thebrokenscript:day_b]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / mojangsecurityentity:the_negative]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / thebrokenscript:day_a]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / no_moon:lost]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 17.0.15, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 322801848 bytes (307 MiB) / 2147483648 bytes (2048 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7995.00
+	Virtual memory used (MB): 5849.59
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	Server Running: true
+	Player Count: 1 / 20; [ServerPlayer['IromiCanela'/575, l='ServerLevel[world]', x=953.61, y=69.00, z=-415.95]]
+	Data Packs: vanilla, mod:betterdungeons, mod:repurposed_structures, mod:mixinsquared (incompatible), mod:geckolib, mod:watching, mod:alltheleaks, mod:i_dont_see_you, mod:kotlinforforge (incompatible), mod:gravestone, mod:modernfix (incompatible), mod:configured (incompatible), mod:yungsapi, mod:mixinextras (incompatible), mod:dungeoncrawl, mod:immediatelyfast (incompatible), mod:architectury (incompatible), mod:ferritecore (incompatible), mod:yet_another_config_lib_v3 (incompatible), mod:the_masked, mod:mru (incompatible), mod:cloth_config (incompatible), mod:forge, mod:fzzy_config (incompatible), mod:bettermineshafts, mod:mojangsecurityentity, mod:no_moon, mod:thebrokenscript
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.5.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		kotlinforforge@4.11.0
+		javafml@null
+		lowcodefml@null
+	Mod List: 
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		YungsBetterDungeons-1.20-Forge-4.0.4.jar          |YUNG's Better Dungeons        |betterdungeons                |1.20-Forge-4.0.4    |DONE      |Manifest: NOSIGNATURE
+		repurposed_structures-7.1.17+1.20.1-forge.jar     |Repurposed Structures         |repurposed_structures         |7.1.17+1.20.1-forge |DONE      |Manifest: NOSIGNATURE
+		mixinsquared-forge-0.2.0.jar                      |MixinSquared                  |mixinsquared                  |0.2.0               |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.20.1-4.7.jar                     |GeckoLib 4                    |geckolib                      |4.7                 |DONE      |Manifest: NOSIGNATURE
+		From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar         |From The Fog                  |watching                      |1.9.2               |DONE      |Manifest: NOSIGNATURE
+		alltheleaks-0.1.4-beta+1.20.1-forge.jar           |All The Leaks                 |alltheleaks                   |0.1.4-beta+1.20.1-fo|DONE      |Manifest: NOSIGNATURE
+		i_dont_see_you-0.5.0.4-forge-1.20.1.jar           |i don't see you               |i_dont_see_you                |0.5.0.4             |DONE      |Manifest: NOSIGNATURE
+		kffmod-4.11.0.jar                                 |Kotlin For Forge              |kotlinforforge                |4.11.0              |DONE      |Manifest: NOSIGNATURE
+		gravestone-forge-1.20.1-1.0.24.jar                |Gravestone Mod                |gravestone                    |1.20.1-1.0.24       |DONE      |Manifest: NOSIGNATURE
+		modernfix-forge-5.23.1+mc1.20.1.jar               |ModernFix                     |modernfix                     |5.23.1+mc1.20.1     |DONE      |Manifest: NOSIGNATURE
+		configured-forge-1.20.1-2.2.3.jar                 |Configured                    |configured                    |2.2.3               |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		YungsApi-1.20-Forge-4.0.6.jar                     |YUNG's API                    |yungsapi                      |1.20-Forge-4.0.6    |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.4.1.jar                       |MixinExtras                   |mixinextras                   |0.4.1               |DONE      |Manifest: NOSIGNATURE
+		Dungeon Crawl-1.20.1-2.3.15.jar                   |Dungeon Crawl                 |dungeoncrawl                  |2.3.15              |DONE      |Manifest: NOSIGNATURE
+		ImmediatelyFast-Forge-1.5.0+1.20.4.jar            |ImmediatelyFast               |immediatelyfast               |1.5.0+1.20.4        |DONE      |Manifest: NOSIGNATURE
+		architectury-9.2.14-forge.jar                     |Architectury                  |architectury                  |9.2.14              |DONE      |Manifest: NOSIGNATURE
+		ferritecore-6.0.1-forge.jar                       |Ferrite Core                  |ferritecore                   |6.0.1               |DONE      |Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar  |YetAnotherConfigLib           |yet_another_config_lib_v3     |3.6.6+1.20.1-forge  |DONE      |Manifest: NOSIGNATURE
+		the_masked-1.0.0-1.20.1.jar                       |The Masked                    |the_masked                    |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		MRU-1.0.4+1.20.1+forge.jar                        |Mineblock's Repeated Utilities|mru                           |1.0.4+1.20.1+forge  |DONE      |Manifest: NOSIGNATURE
+		cloth-config-11.1.136-forge.jar                   |Cloth Config v10 API          |cloth_config                  |11.1.136            |DONE      |Manifest: NOSIGNATURE
+		forge-1.20.1-47.4.2-universal.jar                 |Forge                         |forge                         |47.4.2              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		fzzy_config-0.7.0+1.20.1+forge.jar                |Fzzy Config                   |fzzy_config                   |0.7.0+1.20.1+forge  |DONE      |Manifest: NOSIGNATURE
+		YungsBetterMineshafts-1.20-Forge-4.0.4.jar        |YUNG's Better Mineshafts      |bettermineshafts              |1.20-Forge-4.0.4    |DONE      |Manifest: NOSIGNATURE
+		mojangsecurityentity-1.4.3.jar                    |MojangSecurityEntity          |mojangsecurityentity          |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		no_moon-1.4.2-forge-1.20.1.jar                    |no_moon                       |no_moon                       |1.4.2               |DONE      |Manifest: NOSIGNATURE
+		rus-patch-1.3_6-1.9.3.jar                         |The Broken Script             |thebrokenscript               |1.9.3               |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 4a324f3c-f769-4b22-aa5d-cff042c4cbe8
+	FML: 47.4
+	Forge: net.minecraftforge:47.4.2
+[21Jun2025 05:30:00.236] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 53b97c3a-94be-4862-a472-98dee04a9cf8
+[21Jun2025 05:30:00.236] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/horrorcraft/servidor_minecraft/./crash-reports/crash-2025-06-21_05.30.00-server.txt
+[21Jun2025 05:30:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jun2025 05:30:00.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jun2025 05:30:00.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jun2025 05:30:00.514] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[21Jun2025 05:30:00.514] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[21Jun2025 05:30:00.514] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, geckolib, modernfix, configured, yungsapi, mixinextras, dungeoncrawl, cloth_config, sound_physics_remastered, forge, fzzy_config, mojangsecurityentity, embeddium, rubidium, chloride, fog, minecraft, mixinsquared, watching, alltheleaks, i_dont_see_you, kotlinforforge, oculus, gravestone, entityculling, immediatelyfast, architectury, cavedust, ferritecore, yet_another_config_lib_v3, the_masked, mru, bettermineshafts, no_moon, thebrokenscript]
+[21Jun2025 05:30:00.514] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[21Jun2025 05:30:00.514] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fzzy_config:config_perms_s2c' : Version test of '1.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_masked:the_masked' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'i_dont_see_you:i_dont_see_you' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'no_moon:no_moon' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fzzy_config:config_sync_s2c' : Version test of '1.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fzzy_config:setting_forward' : Version test of '1.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mojangsecurityentity:mojangsecurityentity' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fzzy_config:dynamic_id_s2c' : Version test of '1.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fzzy_config:config_update_s2c' : Version test of '1.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fzzy_config:config_update_c2s' : Version test of '1.0' from client : ACCEPTED
+[21Jun2025 05:30:00.515] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[21Jun2025 05:30:00.516] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[21Jun2025 05:30:00.517] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.517] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thebrokenscript:thebrokenscript' : Version test of '1' from client : ACCEPTED
+[21Jun2025 05:30:00.517] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[21Jun2025 05:30:00.517] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[21Jun2025 05:30:01.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jun2025 05:30:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:alone_forever
+[21Jun2025 05:30:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jun2025 05:30:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/thebrokenscript:null_torture
+[21Jun2025 05:30:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mojangsecurityentity:banspace
+[21Jun2025 05:30:03.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:bedrock
+[21Jun2025 05:30:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/thebrokenscript:clan_void
+[21Jun2025 05:30:03.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mojangsecurityentity:lobbytestdimensionalpha_1192
+[21Jun2025 05:30:03.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:core_77
+[21Jun2025 05:30:03.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/thebrokenscript:day_b
+[21Jun2025 05:30:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mojangsecurityentity:the_negative
+[21Jun2025 05:30:03.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/thebrokenscript:day_a
+[21Jun2025 05:30:03.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jun2025 05:30:03.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:lost
+[21Jun2025 05:30:03.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:30:03.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alone_forever): All chunks are saved
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (null_torture): All chunks are saved
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (banspace): All chunks are saved
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bedrock): All chunks are saved
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (clan_void): All chunks are saved
+[21Jun2025 05:30:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lobbytestdimensionalpha_1192): All chunks are saved
+[21Jun2025 05:30:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (core_77): All chunks are saved
+[21Jun2025 05:30:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (day_b): All chunks are saved
+[21Jun2025 05:30:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_negative): All chunks are saved
+[21Jun2025 05:30:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (day_a): All chunks are saved
+[21Jun2025 05:30:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jun2025 05:30:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lost): All chunks are saved
+[21Jun2025 05:30:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jun2025 05:30:03.147] [Server thread/DEBUG] [mixin/]: Mixing accessor.FakePlayerNetHandlerAccessor from alltheleaks.mixins.json into net.minecraftforge.common.util.FakePlayer$FakePlayerNetHandler
+[21Jun2025 05:30:03.173] [Server thread/DEBUG] [dev.uncandango.alltheleaks.AllTheLeaks/]: Rebuild listeners cache took 19ms
+[21Jun2025 05:30:03.173] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
