@@ -3,7 +3,7 @@
 	#Do you want the game to crash?
 	"Game crashes" = true
 	#Rebalences the game if you have The Broken Script installed
-	"TBS mode" = false
+	"TBS mode" = true
 	#This is a challenge for the best of the best. Makes changes to all entities to make them 10 times worse
 	Hardmode = false
 	#Do you want random structures to appear?
