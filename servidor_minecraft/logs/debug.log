@@ -5949,3 +5949,114 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Jun2025 05:35:28.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
 [23Jun2025 05:35:34.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
 [23Jun2025 05:35:34.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:36:15.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:36:15.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:36:20.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:36:26.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:36:35.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:36:35.756] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:36:39.501] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:36:39.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:36:39.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 05:36:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 05:36:50.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:36:56.943] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ashes1ashes:sonido5 is being run through DFU (hash 98a27c259b73bbe06916d909e62ab04ea12769003b97fa4bc72752972a466dc5), this will cause launch time delays
+[23Jun2025 05:37:03.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:04.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_tp_beacon but it was marked as removed already
+[23Jun2025 05:37:06.951] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:07.001] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:08.701] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:10.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:10.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:10.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:14.106] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:37:19.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:37:19.751] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:21.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:null_flying but it was marked as removed already
+[23Jun2025 05:37:22.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:voidd but it was marked as removed already
+[23Jun2025 05:37:29.558] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:37:29.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:37:29.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:30.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:31.601] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:31.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:37:31.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:37:59.601] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[23Jun2025 05:37:59.601] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23Jun2025 05:39:03.701] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:03.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:03.807] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:39:11.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:39:11.257] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:39:11.257] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:16.601] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:16.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:35.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:null_flying but it was marked as removed already
+[23Jun2025 05:39:42.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:42.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:48.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:39:48.552] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:40:09.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:40:09.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:40:22.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_stare but it was marked as removed already
+[23Jun2025 05:40:24.356] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:40:30.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:40:30.751] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:40:37.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:herobrine but it was marked as removed already
+[23Jun2025 05:40:53.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: executing
+[23Jun2025 05:40:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: locate fail.moon
+[23Jun2025 05:40:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: failed to find fail.moon
+[23Jun2025 05:40:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: failed to set player.data to Nothing
+[23Jun2025 05:40:55.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:40:55.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: locate entity.god
+[23Jun2025 05:40:55.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:40:55.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: found more then one instance of entity.god
+[23Jun2025 05:40:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: error: failed to call player.kill()
+[23Jun2025 05:40:56.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help @a I'm_scared
+[23Jun2025 05:40:56.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set text to "Your end is near"
+[23Jun2025 05:40:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: locate entity.VOID
+[23Jun2025 05:40:56.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: found entity.VOID
+[23Jun2025 05:40:57.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: loading entity.VOID
+[23Jun2025 05:40:57.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: complete entity.VOID
+[23Jun2025 05:40:57.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ()()()()()()()()()()()()()()()()()()()()
+[23Jun2025 05:40:57.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ENDENDENDENDENDENDENDEND()
+[23Jun2025 05:40:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HERE_I_AM()
+[23Jun2025 05:40:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INSIDE_THE_MOON()
+[23Jun2025 05:40:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: execution complete
+[23Jun2025 05:41:01.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:41:01.358] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:41:01.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:41:01.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:41:01.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:41:01.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:41:01.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:41:05.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_> Good luck
+[23Jun2025 05:41:39.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 05:41:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 05:41:55.050] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:41:55.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:41:55.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:41:56.017] [Server thread/DEBUG] [ModernFix/]: Structure mojangsecurityentity:dirttowerhigh is being run through DFU (hash 1b4a53052524fa3c87ecd348c9c35a842185edf728e7254b795813c8d691f592), this will cause launch time delays
+[23Jun2025 05:41:56.801] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_walk but it was marked as removed already
+[23Jun2025 05:42:11.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:faraway but it was marked as removed already
+[23Jun2025 05:42:23.908] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:obstalk but it was marked as removed already
+[23Jun2025 05:42:31.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:42:40.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:43:25.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Obstruction> ZA.
+[23Jun2025 05:43:38.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:43:38.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:43:38.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:43:38.657] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:43:38.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:43:38.757] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:43:38.807] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:43:38.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:43:42.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:null_flying but it was marked as removed already
+[23Jun2025 05:43:54.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:44:05.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:faraway but it was marked as removed already
+[23Jun2025 05:44:16.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:44:22.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_walk but it was marked as removed already
+[23Jun2025 05:44:22.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:waiting_obs but it was marked as removed already
+[23Jun2025 05:44:49.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:44:51.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
+[23Jun2025 05:45:15.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity mojangsecurityentity:placer but it was marked as removed already
