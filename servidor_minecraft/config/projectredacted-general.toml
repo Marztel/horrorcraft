@@ -1,0 +1,8 @@
+
+#General Settings
+[general]
+	#Enable debug mode with additional logging
+	debugMode = false
+	#Show mod messages in chat
+	showMessages = true
+
