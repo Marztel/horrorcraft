@@ -296,7 +296,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2025-06-26 03:45:12 +0000"
+      "beef": "2025-06-26 03:45:12 +0000",
+      "cooked_salmon": "2025-06-26 04:37:52 +0000"
     },
     "done": false
   },
@@ -485,6 +486,36 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-06-26 04:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 04:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-26 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-26 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:dimdoors/door_to_adventure": {
+    "criteria": {
+      "enter_dungeon": "2025-06-26 04:32:29 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:dimdoors/dark_ostiology": {
+    "criteria": {
+      "place_door": "2025-06-26 04:33:02 +0000"
     },
     "done": true
   },
